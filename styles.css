@@ -25,6 +25,7 @@
 }
 
 .content-text {
+    margin: 100px 0px;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -42,7 +43,7 @@
 }
 
 .content-wrapper {
-    margin: 200px 0px;
+    margin: 150px 0px;
     height: 900px;
     display: flex;
     align-items: center;

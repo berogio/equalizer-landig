@@ -6,6 +6,10 @@
     .img-mobile {
         width: 270px;
     }
+
+    .content-text {
+        margin: 90px 0px;
+    }
 }
 
 @media screen and (max-width: 480px) {
@@ -15,5 +19,9 @@
 
     .img-mobile {
         width: 210px;
+    }
+
+    .content-text {
+        margin: 50px 0px;
     }
 }
