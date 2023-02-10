@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    background-color: #F2F2F2;
+    background-image: url(./assets/images/bg-main-desktop.png);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    padding: 5% 0;
+}
+
+.cover-img-wrapper {
+    position: absolute;
+    right: 0;
+    top: -30px;
+}
+
+.grid {
+    width: 80%;
+    height: 2100px
+}
