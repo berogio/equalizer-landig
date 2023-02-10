@@ -21,7 +21,7 @@
 }
 
 .grid {
-    width: 80%;
+    width: 73%;
 }
 
 .content-text {
@@ -34,7 +34,7 @@
 
 .content-text h1 {
     font-family: IBM Plex Sans-m;
-    font-size: 5vw;
+    font-size: 4.5vw;
     padding-bottom: 30px;
 }
 
@@ -64,5 +64,15 @@
     width: 285px;
     position: absolute;
     top: -30px;
-    left: 12%;
+    left: 10%;
+}
+
+.card {
+    width: 450px;
+    height: 620px;
+    background-color: #FA7453;
+    position: absolute;
+    border-radius: 12px;
+    right: 21%;
+    bottom: 20px;
 }
