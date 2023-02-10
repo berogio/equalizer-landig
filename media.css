@@ -1,0 +1,19 @@
+@media screen and (max-width: 1024px) {
+    .cover-img {
+        width: 240px
+    }
+
+    .img-mobile {
+        width: 270px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .cover-img-wrapper {
+        display: none;
+    }
+
+    .img-mobile {
+        width: 210px;
+    }
+}
