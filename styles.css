@@ -42,6 +42,7 @@
 }
 
 .content-wrapper {
+    margin: 200px 0px;
     height: 900px;
     display: flex;
     align-items: center;
@@ -54,12 +55,13 @@
     background-color: #191826;
     background-image: url(./assets/images/bg-pattern-2.svg);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position-x: 35%;
+    background-position-y: 35%
 }
 
 .img-mobile {
     width: 285px;
     position: absolute;
-    top: -40px;
-    left: 7%;
+    top: -30px;
+    left: 12%;
 }
