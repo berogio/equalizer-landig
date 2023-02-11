@@ -122,3 +122,20 @@
 .card .price h1 span {
     font-size: 15px;
 }
+
+.footer {
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer p {
+    max-width: 400px;
+}
+
+.footer .icon-group {
+    display: flex;
+    justify-content: space-around;
+    width: 150px;
+}
