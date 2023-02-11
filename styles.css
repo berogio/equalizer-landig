@@ -139,3 +139,28 @@
     justify-content: space-around;
     width: 150px;
 }
+
+.footer .icon-group .icon-size {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.footer .icon-group .fb {
+    background-image: url(./assets/images/icon-facebook.svg);
+    background-repeat: no-repeat
+}
+
+.footer .icon-group .insta {
+    background-image: url(./assets/images/icon-instagram.svg);
+    background-repeat: no-repeat
+}
+
+.footer .icon-group .twiter {
+    background-image: url(./assets/images/icon-twitter.svg);
+    background-repeat: no-repeat
+}
+
+.footer .icon-group .icon-size:hover {
+    filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
+}
