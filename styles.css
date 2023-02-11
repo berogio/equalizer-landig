@@ -83,8 +83,14 @@
     font-family: IBM Plex Sans-m;
 }
 
+.card h1 span {
+    font-size: 15px;
+}
+
 .card p {
     margin: 40px 0px;
+    color: #e6d9d2;
+    font-family: IBM Plex Sans-r;
 }
 
 .card button {
@@ -117,10 +123,6 @@
 
 .card .btn-android:hover {
     background-color: #FFB964;
-}
-
-.card .price h1 span {
-    font-size: 15px;
 }
 
 .footer {
