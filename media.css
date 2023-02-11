@@ -2,16 +2,20 @@
     .cover-img {
         width: 240px
     }
+
     .img-mobile {
         width: 270px;
     }
+
     .content-text {
         margin: 90px 0px;
     }
+
     .card {
         width: 350px;
         height: 550px;
     }
+
     .footer {
         display: flex;
         flex-flow: row wrap-reverse;
@@ -24,9 +28,11 @@
         height: 550px;
         right: 7%;
     }
+
     .card .btn-ios {
         background-position-x: 15%;
     }
+
     .card .btn-android {
         background-position-x: 10%;
     }
@@ -36,25 +42,32 @@
     .cover-img-wrapper {
         display: none;
     }
+
     .img-mobile {
         width: 210px;
     }
+
     .main .grid .content-text {
         max-width: 90%;
     }
+
     .card {
         width: 100%;
         height: 550px;
         top: 490px;
         right: 0;
+        padding: 35px;
     }
+
     .main .grid {
-        width: 80%;
+        width: 90%;
     }
+
     .footer {
         display: block;
         margin-top: 200px;
     }
+
     .footer p {
         margin: 30px 0;
     }
