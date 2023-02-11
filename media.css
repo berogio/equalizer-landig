@@ -48,8 +48,8 @@
         top: 490px;
         right: 0;
     }
-    .grid {
-        width: 90%;
+    .main .grid {
+        width: 80%;
     }
     .footer {
         display: block;
