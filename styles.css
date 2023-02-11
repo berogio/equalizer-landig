@@ -68,11 +68,57 @@
 }
 
 .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
     width: 450px;
-    height: 620px;
+    height: 550px;
     background-color: #FA7453;
+    color: #F2F2F2;
     position: absolute;
     border-radius: 12px;
     right: 21%;
     bottom: 20px;
+    padding: 55px;
+    font-family: IBM Plex Sans-m;
+}
+
+.card p {
+    margin: 40px 0px;
+}
+
+.card button {
+    color: white;
+    font-weight: bolder;
+    border-radius: 12px;
+    width: 100%;
+    height: 60px;
+    background-color: #191826;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+
+.card .btn-ios {
+    background-image: url(./assets/images/icon-apple.svg);
+    background-position-x: 25%;
+}
+
+.card .btn-android {
+    background-image: url(./assets/images/icon-android.svg);
+    background-position-x: 20%;
+    background-color: #FCFAF9;
+    color: black;
+}
+
+.card .btn-ios:hover {
+    background-color: #66E2DC;
+}
+
+.card .btn-android:hover {
+    background-color: #FFB964;
+}
+
+.card .price h1 span {
+    font-size: 15px;
 }
