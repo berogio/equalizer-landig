@@ -18,7 +18,15 @@
 
     .footer {
         display: flex;
-        flex-wrap: wrap-reverse;
+        flex-flow: row wrap-reverse;
+    }
+}
+
+@media screen and (max-width: 606px) {
+    .card {
+        width: 330px;
+        height: 550px;
+        right: 7%;
     }
 }
 
