@@ -39,10 +39,7 @@
     .img-mobile {
         width: 210px;
     }
-    .content-text {
-        margin: 50px 0px;
-        font-size: 5vw;
-        line-height: normal;
+    .main .grid .content-text {
         max-width: 90%;
     }
     .card {
