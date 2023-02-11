@@ -28,6 +28,9 @@
 
     .content-text {
         margin: 50px 0px;
+        font-size: 5vw;
+        line-height: normal;
+        max-width: 90%;
     }
 
     .card {
@@ -35,5 +38,9 @@
         height: 550px;
         top: 490px;
         right: 0;
+    }
+
+    .grid {
+        width: 90%;
     }
 }
