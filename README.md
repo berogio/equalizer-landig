@@ -1,4 +1,6 @@
-# equalizer-landig
+## Live Demo
+
+Check out the live demo of the Equalizer Landing Page [here](https://berogio.github.io/equalizer-landig/).
 # Equalizer Landing Page
 
 Welcome to the Equalizer Landing Page project! This is a simple landing page designed to showcase the features and offerings of Equalizer.
